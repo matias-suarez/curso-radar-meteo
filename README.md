@@ -1,5 +1,7 @@
 # Curso: Introducción al procesamiento de datos de radar
 
+![banner](banner.png)
+
 Contenidos:
 - Lectura de un volumen de radar con Py-ART
 - Visualización del factor de reflectividad
